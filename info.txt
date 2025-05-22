@@ -1,0 +1,1 @@
+mongourl= mongodb+srv://shahzadkhan311666:shahzadkhan311666@cluster0.axusi.mongodb.net/nestjs
